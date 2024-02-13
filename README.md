@@ -4,7 +4,7 @@
 - 📫 How to reach me: manggini.code@gmail.com 
 -->
 
-<div align="justify">
+<div align="center">
   <a href="https://github.com/TheoSchramm">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GManggini&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GManggini&layout=compact&langs_count=7&theme=radical"/>
